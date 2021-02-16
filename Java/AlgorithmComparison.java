@@ -56,9 +56,9 @@ public class AlgorithmComparison {
             case BUBBLE:
                 BubbleSort.bubbleSort(arr2);
                 break;
-            case BITONIC:
-                BitonicSort.bitonicSort(arr2, 0, arr2.length, 1);
-                break;
+//            case BITONIC:
+//                BitonicSort.bitonicSort(arr2, 0, arr2.length, 1);
+//                break;
             case COMB:
                 CombSort.combSort(arr2);
                 break;
